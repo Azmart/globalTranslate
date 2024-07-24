@@ -1,0 +1,42 @@
+24-07-2024 21:16:24 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:16:24 [DEBUG] app.py: 38: Selected destination language as Afrikaans
+24-07-2024 21:16:43 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:16:43 [DEBUG] app.py: 38: Selected destination language as Chinese
+24-07-2024 21:17:04 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:17:04 [DEBUG] app.py: 38: Selected destination language as Chinese
+24-07-2024 21:17:12 [DEBUG] translator.py: 56: Source text: Hello. I don't know Mandarin. I will present in English. 
+24-07-2024 21:17:12 [DEBUG] translator.py: 57: Source language: English
+24-07-2024 21:17:12 [DEBUG] translator.py: 58: Target language: Chinese
+24-07-2024 21:17:13 [DEBUG] translator.py: 79: Translation: 你好。我不会说普通话。我会用英语演讲。
+24-07-2024 21:17:14 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:17:14 [DEBUG] app.py: 38: Selected destination language as Chinese
+24-07-2024 21:19:08 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:19:08 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:19:08 [DEBUG] app.py: 38: Selected destination language as Afrikaans
+24-07-2024 21:19:08 [DEBUG] app.py: 38: Selected destination language as Afrikaans
+24-07-2024 21:19:15 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:19:15 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:19:15 [DEBUG] app.py: 38: Selected destination language as Chinese
+24-07-2024 21:19:15 [DEBUG] app.py: 38: Selected destination language as Chinese
+24-07-2024 21:19:17 [DEBUG] translator.py: 56: Source text: Hello I don't know Mandarin. I will present in English. 
+24-07-2024 21:19:17 [DEBUG] translator.py: 56: Source text: Hello I don't know Mandarin. I will present in English. 
+24-07-2024 21:19:17 [DEBUG] translator.py: 57: Source language: English
+24-07-2024 21:19:17 [DEBUG] translator.py: 57: Source language: English
+24-07-2024 21:19:17 [DEBUG] translator.py: 58: Target language: Chinese
+24-07-2024 21:19:17 [DEBUG] translator.py: 58: Target language: Chinese
+24-07-2024 21:19:18 [DEBUG] translator.py: 79: Translation: 你好，我不会说普通话。我将用英语进行演讲。
+24-07-2024 21:19:18 [DEBUG] translator.py: 79: Translation: 你好，我不会说普通话。我将用英语进行演讲。
+24-07-2024 21:19:19 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:19:19 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 21:19:19 [DEBUG] app.py: 38: Selected destination language as Chinese
+24-07-2024 21:19:19 [DEBUG] app.py: 38: Selected destination language as Chinese
+24-07-2024 22:06:53 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 22:06:53 [DEBUG] app.py: 38: Selected destination language as Afrikaans
+24-07-2024 22:06:58 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 22:06:58 [DEBUG] app.py: 38: Selected destination language as Chinese
+24-07-2024 22:06:59 [DEBUG] translator.py: 56: Source text: Hello.  I don't know Mandarin.
+24-07-2024 22:06:59 [DEBUG] translator.py: 57: Source language: English
+24-07-2024 22:06:59 [DEBUG] translator.py: 58: Target language: Chinese
+24-07-2024 22:07:00 [DEBUG] translator.py: 79: Translation: 你好。我不会说普通话。
+24-07-2024 22:07:01 [DEBUG] translator.py: 44: Detected source language: English
+24-07-2024 22:07:01 [DEBUG] app.py: 38: Selected destination language as Chinese
